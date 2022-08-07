@@ -1,2 +1,2 @@
 # euclid-layout
-Pixel perfect layout of the landing page
+Pixel perfect, adaptive and cross-browser layout of the landing page.
