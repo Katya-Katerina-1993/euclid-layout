@@ -337,15 +337,15 @@ body {
 }
 
 .swiper-slide:nth-child(1) {
-  background-image: url("../img/hero-back.jpg");
+  background-image: url("../img/hero-back.webp");
 }
 
 .swiper-slide:nth-child(2) {
-  background-image: url("../img/hero-back-second.jpg");
+  background-image: url("../img/hero-back-second.webp");
 }
 
 .swiper-slide:nth-child(3) {
-  background-image: url("../img/hero-back-third.jpg");
+  background-image: url("../img/hero-back-third.webp");
 }
 
 .hero__content {
@@ -430,7 +430,7 @@ body {
   padding: 426px 0 0 0;
   min-width: 869px;
   max-height: 621px;
-  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.31) 100%), url("../img/about-us-info.jpg");
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.31) 100%), url("../img/about-us-info.webp");
   background-size: cover;
 }
 
@@ -583,19 +583,19 @@ body {
 }
 
 .how-we-work__first-tab {
-  background-image: url("../img/how-we-work-back.jpg");
+  background-image: url("../img/how-we-work-back.webp");
 }
 
 .how-we-work__second-tab {
-  background-image: url("../img/how-we-work-back-second.jpg");
+  background-image: url("../img/how-we-work-back-second.webp");
 }
 
 .how-we-work__third-tab {
-  background-image: url("../img/how-we-work-back-third.jpg");
+  background-image: url("../img/how-we-work-back-third.webp");
 }
 
 .how-we-work__fourth-tab {
-  background-image: url("../img/how-we-work-back-fourth.jpg");
+  background-image: url("../img/how-we-work-back-fourth.webp");
 }
 
 .left-block__title {
@@ -1094,7 +1094,7 @@ body {
   }
 
   .swiper-slide:nth-child(1) {
-    background-image: url("../img/hero-back-1024.jpg");
+    background-image: url("../img/hero-back-1024.webp");
   }
 
   .swiper-slide:nth-child(2), .swiper-slide:nth-child(3) {
@@ -1140,7 +1140,7 @@ body {
     margin: 0 0 32px;
     min-width: 100%;
     min-height: 640px;
-    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.31) 100%), url("../img/about-us-info.jpg");
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.31) 100%), url("../img/about-us-info.webp");
     background-size: cover;
   }
 
@@ -1196,19 +1196,19 @@ body {
   }
 
   .how-we-work__first-tab {
-    background-image: url("../img/how-we-work-back-1024.jpg");
+    background-image: url("../img/how-we-work-back-1024.webp");
   }
 
   .how-we-work__second-tab {
-    background-image: url("../img/how-we-work-back-second.jpg");
+    background-image: url("../img/how-we-work-back-second.webp");
   }
 
   .how-we-work__third-tab {
-    background-image: url("../img/how-we-work-back-third.jpg");
+    background-image: url("../img/how-we-work-back-third.webp");
   }
 
   .how-we-work__fourth-tab {
-    background-image: url("../img/how-we-work-back-fourth.jpg");
+    background-image: url("../img/how-we-work-back-fourth.webp");
   }
 
   .left-block__title {
@@ -1350,7 +1350,7 @@ body {
   }
 
   .swiper-slide:nth-child(1) {
-    background-image: url("../img/hero-back-768.jpg");
+    background-image: url("../img/hero-back-768.webp");
   }
 
   .swiper-slide:nth-child(2), .swiper-slide:nth-child(3) {
@@ -1382,7 +1382,7 @@ body {
     margin: 0 0 32px;
     min-width: 100%;
     min-height: 650px;
-    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.31) 100%), url("../img/about-us-info-768.jpg");
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.31) 100%), url("../img/about-us-info-768.webp");
     background-size: cover;
   }
 
@@ -1429,7 +1429,7 @@ body {
   }
 
   .how-we-work__first-tab {
-    background-image: url("../img/how-we-work-back-768.jpg");
+    background-image: url("../img/how-we-work-back-768.webp");
   }
 
   .how-we-work__first-tab, .how-we-work__second-tab, .how-we-work__third-tab, .how-we-work__fourth-tab {
@@ -1575,7 +1575,7 @@ body {
   }
 
   .swiper-slide:nth-child(1) {
-    background-image: url("../img/hero-back-320.jpg");
+    background-image: url("../img/hero-back-320.webp");
   }
 
   .swiper-slide:nth-child(2), .swiper-slide:nth-child(3) {
@@ -1636,7 +1636,7 @@ body {
     margin-bottom: 27px;
     min-width: 100%;
     min-height: 200px;
-    background-image: url("../img/about-us-info-320.jpg");
+    background-image: url("../img/about-us-info-320.webp");
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -1728,7 +1728,7 @@ body {
   }
 
   .how-we-work__first-tab {
-    background-image: url("../img/how-we-work-back-320.jpg");
+    background-image: url("../img/how-we-work-back-320.webp");
   }
 
   .how-we-work__first-tab, .how-we-work__second-tab, .how-we-work__third-tab, .how-we-work__fourth-tab {
